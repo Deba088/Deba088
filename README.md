@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Debanjan
+- 👋 Hi, this is Debanjan
 - 👀 I’m interested in Neural Network, AI, Machine Learning, Finance, Stock Analysis
 - 🌱 I’m currently learning Neural Network
 - 💞️ I’m looking to collaborate on Neural Network
